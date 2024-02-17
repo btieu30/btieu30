@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Brianna 👋
+I'm currently a freshman at Rensselaer Polytechnic Institute majoring in Computer Science and Information Technology and Web Sciences
 <!--
 **btieu30/btieu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
