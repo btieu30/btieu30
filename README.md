@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Brianna 👋</h1>
-<h3 align="center">A student at Rensselaer Polytechnic Institute majoring in Computer Science and Information Technology Web Sciences</h3>
+<h3 align="center">A student at Rensselaer Polytechnic Institute majoring in Computer Science | Class of 2027</h3>
 
 - 📫 How to reach me **btieu@rpi.edu**
 
